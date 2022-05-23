@@ -105,6 +105,9 @@ function App() {
               <FaLock />
             </button>
           </div>
+          <button onClick={getUser} data-label="resetPerson" className="btn">
+            New User
+          </button>
         </div>
       </div>
     </div>
