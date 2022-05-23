@@ -14,7 +14,11 @@ function App() {
       <div className="block bcg-black"></div>
       <div className="block">
         <div className="container">
-          <img src="" className="user-img" alt="" />
+          <img
+            src="https://randomuser.me/api/portraits/med/men/75.jpg"
+            className="user-img"
+            alt=""
+          />
           <p className="user-title">Title</p>
           <p className="user-value">Value</p>
           <div className="values-list">
